@@ -1,17 +1,17 @@
 # dio_ml_azure
 Repositório para realizar exercícios referente ao bootcamp Machine Learning na Prática no Azure ML
 
-Etapa Inicial - Criação do Recurso
+** Etapa Inicial - Criação do Recurso **
 A etapa inicial consistiu na criação do recurso Machine Learning Studio, realizado através do portal da Azure. Após as configurações para criação (como definição do nome, storage, resorce group) o recurso é criado.
 
-Segunda Etapa - Acessando o Recurso
+** Segunda Etapa - Acessando o Recurso **
 
 Para acessar o Machine Learning Studio basta voltar a página inicial no https://portal.azure.com e buscar pelo nome dado ao recurso criado. Ao acessar o Azure Machine Learning Workspace uma nova página será aberta, agora dentro do recurso na sessão Overview. 
 Para acessar o Machine Learning Studio basta clicar em Lauch Studio nessa mesma sessão de Overview.
 
 Durante a primeira vez que o ML Studio for executado será solicitado o preenchimento de algumas informações. Após preenchidas, o ambiente estará liberado para criação de modelos.
 
-Terceira Etapa - Criando um Modelo
+** Terceira Etapa - Criando um Modelo ** 
 
 Na página inicial do Machine Learning Studio basta clicar no sandwich ícone ao lado superior esquerdo e após, na sessão Authoring, clicar em Automated ML (demonstrado na figura 1.0 abaixo).
 ![1.0](image.png)
