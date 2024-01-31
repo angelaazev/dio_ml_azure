@@ -14,9 +14,11 @@ Durante a primeira vez que o ML Studio for executado será solicitado o preenchi
 ** Terceira Etapa - Criando um Modelo ** 
 
 Na página inicial do Machine Learning Studio basta clicar no sandwich ícone ao lado superior esquerdo e após, na sessão Authoring, clicar em Automated ML (demonstrado na figura 1.0 abaixo).
+
 ![1.0](image.png)
 
 A página de criação do Automated ML será aberta e para criar um novo Job basta clicar em New automated ML job (figura 1.1).
+
 ![1.1](image-1.png)
 
 Para esse recursos iremos seguir com os exemplos dados na documentação (https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html).
